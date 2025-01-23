@@ -1,0 +1,10 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "RGKZYUYL85.com.philippineshoho.app",
+                "paths": ["/*"]
+            }
+        ]
+    }
+}
